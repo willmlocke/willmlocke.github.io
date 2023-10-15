@@ -1,8 +1,8 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "localhost.UTDC",
+    "serverName": "United Terran Defense Coalition Ship Server Mk III Al-24",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "A20",
     "defaultUser": {
         "userId": "user",
         "password": "",
